@@ -16,3 +16,10 @@ This repository contains a collection of my DS projects :)
 
 - Results: The Random Forest classifier achieved an accuracy of approximately 65.94% on the test dataset. However, it struggled with minority classes, as evidenced by low precision and recall for certain quality levels. To address this, the XGBoost classifier was employed, which after label re-encoding, improved the accuracy to about 69.69%. The XGBoost model exhibited a better handling of the class imbalance, showing increased F1-scores for the majority classes and a more stable performance across different quality levels. Despite the challenges of an imbalanced dataset, indicated by the varying 'support' in the classification reports, both models demonstrated potential in predicting wine quality. The Random Forest model offered a solid baseline, while the XGBoost model provided an incremental improvement, especially in dealing with class imbalance. The findings underscore the importance of choosing the right algorithm and preprocessing steps in predictive modeling to achieve more accurate and generalizable results.
 
+#### Project 3: Trigram Models for Text Prediction and Essay Scoring
+- Description: The project employs trigram models to enhance text prediction and score essays, using NLP techniques to process and understand language patterns.
+
+- Skills Used: Python’s data structures and NLP fundamentals enable efficient computation of n-gram probabilities and perplexity measures, essential for the model's predictions.
+
+- Results: The model was adept at assessing essay quality, indicated by its ability to differentiate between high and low-quality essays based on perplexity scores, showcasing improved handling of language data sparsity.
+
