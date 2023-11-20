@@ -18,8 +18,10 @@ This repository contains a collection of my DS projects :)
 
 #### Project 3: Trigram Models for Text Prediction and Essay Scoring
 - Description: The project employs trigram models to enhance text prediction and score essays, using NLP techniques to process and understand language patterns.
-
 - Skills Used: Python’s data structures and NLP fundamentals enable efficient computation of n-gram probabilities and perplexity measures, essential for the model's predictions.
-
 - Results: The model was adept at assessing essay quality, indicated by its ability to differentiate between high and low-quality essays based on perplexity scores, showcasing improved handling of language data sparsity.
 
+#### Project 4: Predictive Modeling for Long-Term Contract Viability
+- Description: This project develops a predictive model tailored to evaluate the viability of long-term contracts by analyzing historical data and identifying key performance indicators that influence contract sustainability.
+- Skills Used: The approach integrates data preprocessing, exploratory data analysis, and advanced statistical modeling within a Python environment, utilizing libraries such as pandas, numpy, and scikit-learn. The model accounts for various features that may impact the likelihood of a contract's long-term success.
+- Results: The constructed model, trained on a comprehensive dataset, reveals critical insights into factors that contribute to the longevity of contracts. By assessing the model's accuracy and applying it to a test set, we demonstrate its capability to forecast the outcome of new contracts with a high degree of confidence.
