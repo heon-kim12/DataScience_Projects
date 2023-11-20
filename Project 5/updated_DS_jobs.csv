@@ -1,0 +1,328 @@
+Job Title,Rating,Company Name,Keyword_Counts,Keyword_Score,Salary_Score,Salary_Estimate_Score,categorized_industry
+Data Scientist,3.9,Quartet Health,"{'data': 8, 'machine learning': 4, 'analysis': 1, 'statistics': 2, 'research': 2, 'python': 1}",0.4115384615384615,146000.0,0.6565217391304348,Tech Industry
+Data Scientist,3.0,Affinity Solutions,"{'data': 8, 'machine learning': 2, 'analysis': 1, 'statistics': 1, 'research': 1, 'python': 1}",0.3423076923076923,146000.0,0.6565217391304348,Tech Industry
+Data Scientist,4.4,WITHIN,"{'data': 6, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.23846153846153847,146000.0,0.6565217391304348,Tech Industry
+Data Scientist,4.1,Datadog,"{'data': 8, 'machine learning': 2, 'analysis': 1, 'statistics': 0, 'research': 2, 'python': 1}",0.3423076923076923,146000.0,0.6565217391304348,Tech Industry
+Data Scientist,4.3,Caserta,"{'data': 10, 'machine learning': 1, 'analysis': 2, 'statistics': 0, 'research': 1, 'python': 1}",0.35961538461538456,130000.0,0.5869565217391304,Tech Industry
+Data Scientist,3.2,viagogo,"{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 2}",0.3423076923076923,130000.0,0.5869565217391304,Tech Industry
+Data Scientist,-1.0,CompIQ,"{'data': 3, 'machine learning': 2, 'analysis': 0, 'statistics': 2, 'research': 0, 'python': 1}",0.23846153846153847,130000.0,0.5869565217391304,Tech Industry
+Data Scientist,4.2,Gallup,"{'data': 8, 'machine learning': 1, 'analysis': 1, 'statistics': 2, 'research': 6, 'python': 1}",0.4288461538461539,130000.0,0.5869565217391304,Consulting Industry
+Data Scientist,3.9,Amazon,"{'data': 5, 'machine learning': 1, 'analysis': 0, 'statistics': 1, 'research': 2, 'python': 1}",0.2730769230769231,130000.0,0.5869565217391304,Tech Industry
+Data Scientist,3.0,Known,"{'data': 6, 'machine learning': 3, 'analysis': 1, 'statistics': 3, 'research': 2, 'python': 1}",0.3769230769230769,133000.0,0.6,Tech Industry
+Data Scientist,3.9,ApTask,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.18653846153846154,133000.0,0.6,Tech Industry
+Data Scientist,2.8,Match Group,"{'data': 4, 'machine learning': 3, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.2730769230769231,133000.0,0.6,Tech Industry
+Data Scientist,-1.0,One Drop,"{'data': 12, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.35961538461538456,99000.0,0.4521739130434783,Tech Industry
+Data Scientist,-1.0,Microagility,"{'data': 4, 'machine learning': 3, 'analysis': 1, 'statistics': 2, 'research': 2, 'python': 2}",0.3423076923076923,99000.0,0.4521739130434783,Consulting Industry
+Data Scientist,2.8,Gate Staffing LLC,"{'data': 13, 'machine learning': 6, 'analysis': 3, 'statistics': 1, 'research': 0, 'python': 2}",0.5326923076923077,99000.0,0.4521739130434783,Tech Industry
+Data Scientist,2.9,CKM Advisors,"{'data': 9, 'machine learning': 2, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 1}",0.3423076923076923,99000.0,0.4521739130434783,Consulting Industry
+Data Scientist,5.0,Averity,"{'data': 8, 'machine learning': 2, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 0}",0.3076923076923077,99000.0,0.4521739130434783,Other Industry
+Data Scientist,4.2,The CARIAN Group,"{'data': 11, 'machine learning': 1, 'analysis': 1, 'statistics': 1, 'research': 2, 'python': 1}",0.3942307692307693,99000.0,0.4521739130434783,Consulting Industry
+Data Scientist,4.0,OneWire,"{'data': 3, 'machine learning': 4, 'analysis': 0, 'statistics': 1, 'research': 1, 'python': 3}",0.3076923076923077,111500.0,0.5065217391304349,Other Industry
+Data Scientist,3.4,Thomas,"{'data': 19, 'machine learning': 4, 'analysis': 4, 'statistics': 0, 'research': 1, 'python': 1}",0.6019230769230769,111500.0,0.5065217391304349,Tech Industry
+Data Scientist,2.7,TBWA\Chiat\Day,"{'data': 18, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 4, 'python': 2}",0.55,111500.0,0.5065217391304349,Tech Industry
+Data Scientist,4.8,TechProjects,"{'data': 17, 'machine learning': 0, 'analysis': 4, 'statistics': 0, 'research': 0, 'python': 3}",0.5153846153846154,111500.0,0.5065217391304349,Tech Industry
+Data Engineer,4.7,Seated,"{'data': 12, 'machine learning': 0, 'analysis': 4, 'statistics': 1, 'research': 0, 'python': 1}",0.4115384615384615,169500.0,0.7586956521739131,Tech Industry
+Data Scientist,3.4,"Digital Intelligence Systems, LLC","{'data': 4, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 2, 'python': 0}",0.22115384615384615,169500.0,0.7586956521739131,Tech Industry
+Data Scientist,4.8,InvenTech Info,"{'data': 7, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 1, 'python': 1}",0.2730769230769231,169500.0,0.7586956521739131,Tech Industry
+Data Scientist,3.7,Via Transportation,"{'data': 4, 'machine learning': 2, 'analysis': 2, 'statistics': 2, 'research': 2, 'python': 1}",0.325,169500.0,0.7586956521739131,Tech Industry
+Data Engineer,4.4,Mark,"{'data': 8, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.25576923076923075,133000.0,0.6,Tech Industry
+Machine Learning Engineer,3.9,Temboo,"{'data': 9, 'machine learning': 12, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 0}",0.4807692307692307,133000.0,0.6,Tech Industry
+Data Scientist,1.6,"Management Decisions, Inc","{'data': 9, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.3076923076923077,133000.0,0.6,Tech Industry
+Data Engineer,4.7,B,"{'data': 14, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 4}",0.4634615384615385,133000.0,0.6,Tech Industry
+Machine Learning Engineer,3.9,Amazon,"{'data': 18, 'machine learning': 2, 'analysis': 1, 'statistics': 1, 'research': 1, 'python': 1}",0.5153846153846154,124500.0,0.5630434782608695,Tech Industry
+Machine Learning Engineer,4.1,Mitchell Martin,"{'data': 8, 'machine learning': 3, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.3423076923076923,111500.0,0.5065217391304349,Other Industry
+Data Engineer,4.9,Freestar,"{'data': 28, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.6192307692307691,107500.0,0.48913043478260865,Tech Industry
+Data Engineer,4.4,PulsePoint,"{'data': 20, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.4634615384615385,107500.0,0.48913043478260865,Tech Industry
+Data Scientist,3.9,BlackLine,"{'data': 15, 'machine learning': 6, 'analysis': 4, 'statistics': 1, 'research': 2, 'python': 3}",0.6365384615384615,133000.0,0.6,Tech Industry
+Data Scientist,3.9,Amazon,"{'data': 13, 'machine learning': 3, 'analysis': 2, 'statistics': 2, 'research': 3, 'python': 1}",0.5153846153846154,133000.0,0.6,Tech Industry
+Data Scientist,4.2,Aviana Global Technologies,"{'data': 10, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 1, 'python': 2}",0.3423076923076923,133000.0,0.6,Tech Industry
+Data Scientist,3.2,Ipsos,"{'data': 17, 'machine learning': 1, 'analysis': 2, 'statistics': 0, 'research': 7, 'python': 2}",0.6019230769230769,133000.0,0.6,Consulting Industry
+Data Scientist,3.2,ConsumerTrack,"{'data': 12, 'machine learning': 4, 'analysis': 3, 'statistics': 2, 'research': 2, 'python': 2}",0.5326923076923077,146500.0,0.658695652173913,Tech Industry
+Data Scientist,-1.0,Evolvinc,"{'data': 13, 'machine learning': 7, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.4980769230769231,146500.0,0.658695652173913,Tech Industry
+Data Engineer,4.7,SADA,"{'data': 22, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.5326923076923077,146500.0,0.658695652173913,Tech Industry
+Data Scientist,3.0,Gurucul,"{'data': 10, 'machine learning': 2, 'analysis': 2, 'statistics': 2, 'research': 0, 'python': 1}",0.3942307692307693,146500.0,0.658695652173913,Tech Industry
+Data Scientist,3.3,Allscripts,"{'data': 8, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 3, 'python': 0}",0.325,146500.0,0.658695652173913,Tech Industry
+Research Scientist,3.6,SDL,"{'data': 2, 'machine learning': 2, 'analysis': 0, 'statistics': 1, 'research': 7, 'python': 0}",0.3076923076923077,146500.0,0.658695652173913,Tech Industry
+Data Engineer,4.5,CrowdRise,"{'data': 26, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.6019230769230769,146500.0,0.658695652173913,Tech Industry
+Machine Learning Engineer,4.7,TEEMA,"{'data': 3, 'machine learning': 1, 'analysis': 0, 'statistics': 2, 'research': 0, 'python': 0}",0.20384615384615384,99000.0,0.4521739130434783,Other Industry
+Data Engineer,3.8,Mondo,"{'data': 10, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.3076923076923077,99000.0,0.4521739130434783,Other Industry
+Data Engineer,3.1,The Honest Company,"{'data': 14, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.3942307692307693,99000.0,0.4521739130434783,Tech Industry
+Data Engineer,5.0,Tapcart,"{'data': 14, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.35961538461538456,176000.0,0.7869565217391303,Tech Industry
+Data Engineer,4.7,TEEMA,"{'data': 6, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.23846153846153847,100500.0,0.45869565217391306,Other Industry
+Data Scientist,4.2,CyberCoders,"{'data': 16, 'machine learning': 2, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.44615384615384623,100500.0,0.45869565217391306,Other Industry
+Data Engineer,5.0,ingenium.agency,"{'data': 15, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 4, 'python': 3}",0.4807692307692307,100500.0,0.45869565217391306,Other Industry
+Data Engineer,4.4,Direct Agents,"{'data': 10, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.3076923076923077,170000.0,0.7608695652173914,Tech Industry
+Data Engineer,4.0,Prosum,"{'data': 6, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.22115384615384615,94000.0,0.4304347826086957,Tech Industry
+Data Engineer,-1.0,EvolvInc,"{'data': 11, 'machine learning': 2, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.3769230769230769,94000.0,0.4304347826086957,Tech Industry
+Data Engineer,4.2,CyberCoders,"{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.29038461538461535,94000.0,0.4304347826086957,Other Industry
+Data Engineer,4.8,Agilisium LLC,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,94000.0,0.4304347826086957,Tech Industry
+Machine Learning Engineer,4.2,CyberCoders,"{'data': 0, 'machine learning': 6, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.22115384615384615,94000.0,0.4304347826086957,Other Industry
+Data Engineer,5.0,Sense,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.25576923076923075,109000.0,0.4956521739130435,Tech Industry
+Data Engineer,3.9,BlackLine,"{'data': 19, 'machine learning': 3, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.5153846153846154,53000.0,0.25217391304347825,Tech Industry
+Data Engineer,2.7,TrueCar,"{'data': 15, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.35961538461538456,53000.0,0.25217391304347825,Tech Industry
+Data Engineer,3.7,NortonLifeLock,"{'data': 17, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.4288461538461539,56000.0,0.26521739130434785,Tech Industry
+Data Scientist,3.8,XSELL Technologies,"{'data': 7, 'machine learning': 6, 'analysis': 1, 'statistics': 1, 'research': 1, 'python': 2}",0.4115384615384615,63000.0,0.2956521739130435,Tech Industry
+Data Engineer,4.5,Sagence,"{'data': 25, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.55,63000.0,0.2956521739130435,Consulting Industry
+Data Scientist,2.2,Uptake,"{'data': 19, 'machine learning': 3, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 1}",0.5326923076923077,63000.0,0.2956521739130435,Tech Industry
+Data Scientist,3.4,Waystar,"{'data': 7, 'machine learning': 6, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.3769230769230769,63000.0,0.2956521739130435,Tech Industry
+Data Scientist,4.2,Goodway Group,"{'data': 12, 'machine learning': 2, 'analysis': 2, 'statistics': 1, 'research': 0, 'python': 2}",0.4288461538461539,63000.0,0.2956521739130435,Tech Industry
+Data Scientist,5.0,Kalderos,"{'data': 13, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.3769230769230769,63000.0,0.2956521739130435,Tech Industry
+Data Scientist,4.7,Sutoer,"{'data': 2, 'machine learning': 1, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.20384615384615384,63000.0,0.2956521739130435,Tech Industry
+Data Scientist,3.0,Photon Infotech,"{'data': 18, 'machine learning': 3, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 3}",0.5326923076923077,63000.0,0.2956521739130435,Tech Industry
+Data Scientist,3.2,Triplebyte,"{'data': 5, 'machine learning': 2, 'analysis': 3, 'statistics': 0, 'research': 1, 'python': 0}",0.29038461538461535,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,-1.0,Goby Inc,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.11730769230769231,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,3.8,Hewlett Packard Enterprise,"{'data': 9, 'machine learning': 7, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4115384615384615,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,4.3,Green Key Technologies,"{'data': 8, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 0}",0.2730769230769231,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,4.7,Capax Global,"{'data': 17, 'machine learning': 5, 'analysis': 3, 'statistics': 1, 'research': 1, 'python': 1}",0.5846153846153846,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,4.0,Fisec Global,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.18653846153846154,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,2.6,Saggezza,"{'data': 11, 'machine learning': 3, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 2}",0.4115384615384615,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,3.5,Care Advisors Inc,"{'data': 20, 'machine learning': 1, 'analysis': 1, 'statistics': 1, 'research': 3, 'python': 2}",0.5846153846153846,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,4.1,iManage,"{'data': 11, 'machine learning': 1, 'analysis': 5, 'statistics': 1, 'research': 2, 'python': 0}",0.44615384615384623,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,2.8,BCforward,"{'data': 26, 'machine learning': 2, 'analysis': 3, 'statistics': 0, 'research': 3, 'python': 2}",0.7230769230769231,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,4.2,DW Simpson,"{'data': 3, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.18653846153846154,104500.0,0.47608695652173916,Other Industry
+Data Engineer,4.7,SADA,"{'data': 22, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.5326923076923077,104500.0,0.47608695652173916,Tech Industry
+Data Scientist,-1.0,MessageControl,"{'data': 9, 'machine learning': 3, 'analysis': 2, 'statistics': 1, 'research': 3, 'python': 1}",0.4288461538461539,98000.0,0.4478260869565217,Tech Industry
+Data Scientist,2.6,"Smart Synergies, Inc","{'data': 25, 'machine learning': 2, 'analysis': 3, 'statistics': 0, 'research': 3, 'python': 2}",0.7057692307692308,98000.0,0.4478260869565217,Consulting Industry
+Data Scientist,1.6,"Management Decisions, Inc","{'data': 8, 'machine learning': 2, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 4}",0.3769230769230769,98000.0,0.4478260869565217,Tech Industry
+Data Scientist,4.0,Two95 International Inc,"{'data': 3, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 2}",0.20384615384615384,98000.0,0.4478260869565217,Other Industry
+Data Scientist,4.7,Unicom Technologies INC,"{'data': 0, 'machine learning': 2, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.16923076923076924,98000.0,0.4478260869565217,Tech Industry
+Data Scientist,4.5,Maven Wave Partners,"{'data': 13, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 3}",0.4115384615384615,98000.0,0.4478260869565217,Consulting Industry
+Data Scientist,3.3,Underwriters Laboratories,"{'data': 17, 'machine learning': 2, 'analysis': 5, 'statistics': 1, 'research': 1, 'python': 0}",0.55,98000.0,0.4478260869565217,Consulting Industry
+Data Scientist,3.4,Spectrum Communications and Consulting,"{'data': 25, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 0}",0.55,98000.0,0.4478260869565217,Tech Industry
+Data Scientist,3.5,Medix,"{'data': 13, 'machine learning': 0, 'analysis': 4, 'statistics': 0, 'research': 1, 'python': 2}",0.44615384615384623,43500.0,0.2108695652173913,Other Industry
+Machine Learning Engineer,3.2,Triplebyte,"{'data': 1, 'machine learning': 1, 'analysis': 2, 'statistics': 0, 'research': 5, 'python': 0}",0.25576923076923075,60000.0,0.28260869565217395,Tech Industry
+Data Engineer,4.8,Apervita,"{'data': 26, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.5673076923076924,136500.0,0.6152173913043478,Tech Industry
+Data Engineer,4.3,Strike Social,"{'data': 23, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.5153846153846154,136500.0,0.6152173913043478,Tech Industry
+Data Engineer,4.5,Involgix,"{'data': 5, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.22115384615384615,136500.0,0.6152173913043478,Tech Industry
+Data Engineer,3.8,Mondo,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,136500.0,0.6152173913043478,Other Industry
+Data Engineer,5.0,Kalderos,"{'data': 20, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.4634615384615385,136500.0,0.6152173913043478,Tech Industry
+Data Engineer,3.7,ServiceNow,"{'data': 11, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 1}",0.3423076923076923,136500.0,0.6152173913043478,Tech Industry
+Machine Learning Engineer,-1.0,TalentCraft,"{'data': 10, 'machine learning': 3, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.325,111500.0,0.5065217391304349,Other Industry
+Data Engineer,4.1,Brad's Deals,"{'data': 18, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.44615384615384623,111500.0,0.5065217391304349,Tech Industry
+Data Engineer,3.7,Riskonnect,"{'data': 8, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,111500.0,0.5065217391304349,Tech Industry
+Data Engineer,3.1,"Relevante, Inc","{'data': 42, 'machine learning': 0, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.8788461538461538,85500.0,0.3934782608695653,Consulting Industry
+Data Engineer,3.8,Concurrency,"{'data': 11, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.3423076923076923,85500.0,0.3934782608695653,Tech Industry
+Data Engineer,4.6,Kani Solutions,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.11730769230769231,85500.0,0.3934782608695653,Other Industry
+Data Engineer,4.1,Collabera,"{'data': 0, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 3}",0.15192307692307694,85500.0,0.3934782608695653,Tech Industry
+Data Engineer,3.2,RAPP,"{'data': 8, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.25576923076923075,85500.0,0.3934782608695653,Tech Industry
+Data Engineer,4.0,"Insight Enterprises, Inc","{'data': 19, 'machine learning': 2, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4980769230769231,85500.0,0.3934782608695653,Tech Industry
+Data Engineer,4.7,Capax Global,"{'data': 17, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.4288461538461539,96500.0,0.44130434782608696,Tech Industry
+Data Engineer,3.6,Signature Consultants,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,82500.0,0.3804347826086957,Other Industry
+Big Data Engineer,4.1,Collabera,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 3}",0.20384615384615384,106500.0,0.48478260869565215,Tech Industry
+Data Engineer,5.0,CultureFit Technology Staffing,"{'data': 44, 'machine learning': 1, 'analysis': 1, 'statistics': 1, 'research': 2, 'python': 2}",0.9826923076923076,106500.0,0.48478260869565215,Tech Industry
+Data Engineer,3.2,PDI Software,"{'data': 16, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.4115384615384615,106500.0,0.48478260869565215,Tech Industry
+Data Engineer,5.0,SIMPLIFIED IT SOLUTIONS Inc,"{'data': 16, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 2}",0.4288461538461539,106500.0,0.48478260869565215,Tech Industry
+Big Data Engineer,3.9,Edgilent Corp,"{'data': 12, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.3076923076923077,106500.0,0.48478260869565215,Tech Industry
+Data Scientist,3.7,Infotree Service Inc,"{'data': 6, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.23846153846153847,132500.0,0.5978260869565217,Tech Industry
+Research Scientist,4.0,Dascena,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 4, 'python': 0}",0.20384615384615384,132500.0,0.5978260869565217,Tech Industry
+Data Engineer,3.3,Trace,"{'data': 18, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.4288461538461539,132500.0,0.5978260869565217,Tech Industry
+Data Engineer,4.1,Slalom,"{'data': 17, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 2}",0.4634615384615385,63000.0,0.2956521739130435,Consulting Industry
+Data Scientist,3.9,Techwave Consulting Inc,"{'data': 15, 'machine learning': 1, 'analysis': 4, 'statistics': 0, 'research': 0, 'python': 1}",0.4634615384615385,63000.0,0.2956521739130435,Tech Industry
+Machine Learning Engineer,-1.0,Microagility,"{'data': 3, 'machine learning': 5, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,63000.0,0.2956521739130435,Consulting Industry
+Data Engineer,4.0,Irvine Technology Corporation,"{'data': 8, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.2730769230769231,53500.0,0.25434782608695655,Other Industry
+Data Engineer,3.2,Wise Men Consultants,"{'data': 7, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.23846153846153847,53500.0,0.25434782608695655,Tech Industry
+Data Engineer,4.5,Frontend Arts,"{'data': 10, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.29038461538461535,129000.0,0.582608695652174,Tech Industry
+Big Data Engineer,3.5,Robert Half,"{'data': 18, 'machine learning': 0, 'analysis': 1, 'statistics': 1, 'research': 1, 'python': 2}",0.4980769230769231,129000.0,0.582608695652174,Other Industry
+Data Engineer,3.1,"Alpha Net Consulting, LLC","{'data': 19, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.4634615384615385,177500.0,0.7934782608695652,Tech Industry
+Data Scientist,4.2,CyberCoders,"{'data': 5, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.23846153846153847,122500.0,0.5543478260869565,Other Industry
+Data Scientist,4.9,Freestar,"{'data': 14, 'machine learning': 3, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4288461538461539,122500.0,0.5543478260869565,Tech Industry
+Data Scientist,3.3,Vaco Technology,"{'data': 17, 'machine learning': 5, 'analysis': 1, 'statistics': 2, 'research': 1, 'python': 3}",0.6019230769230769,122500.0,0.5543478260869565,Consulting Industry
+Data Scientist,3.9,Amazon,"{'data': 4, 'machine learning': 0, 'analysis': 3, 'statistics': 2, 'research': 5, 'python': 2}",0.3769230769230769,122500.0,0.5543478260869565,Tech Industry
+Data Scientist,4.4,Softcom Systems,"{'data': 6, 'machine learning': 3, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 3}",0.3423076923076923,122500.0,0.5543478260869565,Tech Industry
+Data Scientist,4.0,GTN Technical Staffing,"{'data': 18, 'machine learning': 5, 'analysis': 1, 'statistics': 2, 'research': 1, 'python': 3}",0.6192307692307691,122500.0,0.5543478260869565,Other Industry
+Machine Learning Engineer,3.8,IntraEdge,"{'data': 2, 'machine learning': 7, 'analysis': 0, 'statistics': 2, 'research': 2, 'python': 4}",0.3942307692307693,122500.0,0.5543478260869565,Tech Industry
+Data Scientist,3.3,fulcrum worldwide,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.13461538461538464,122500.0,0.5543478260869565,Tech Industry
+Data Engineer,4.8,Zoom,"{'data': 14, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.4288461538461539,122500.0,0.5543478260869565,Tech Industry
+Data Scientist,3.8,IntraEdge,"{'data': 4, 'machine learning': 2, 'analysis': 1, 'statistics': 2, 'research': 0, 'python': 2}",0.29038461538461535,128000.0,0.5782608695652174,Tech Industry
+Data Engineer,3.8,IntraEdge,"{'data': 47, 'machine learning': 0, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 0}",0.948076923076923,75000.0,0.34782608695652173,Tech Industry
+Data Engineer,4.9,Freestar,"{'data': 28, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.6192307692307691,75000.0,0.34782608695652173,Tech Industry
+Data Engineer,3.2,Blue Rose Technologies LLC,"{'data': 14, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.35961538461538456,118000.0,0.5347826086956522,Tech Industry
+Data Engineer,4.3,22nd Century Staffing,"{'data': 19, 'machine learning': 0, 'analysis': 4, 'statistics': 0, 'research': 1, 'python': 0}",0.5153846153846154,118000.0,0.5347826086956522,Other Industry
+Data Engineer,3.9,Diverse Lynx,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.11730769230769231,118000.0,0.5347826086956522,Tech Industry
+Data Engineer,3.4,VincentBenjamin,"{'data': 5, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.22115384615384615,80500.0,0.3717391304347827,Other Industry
+Data Engineer,4.1,Kforce,"{'data': 23, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.5326923076923077,80500.0,0.3717391304347827,Other Industry
+Data Engineer,1.6,"Management Decisions, Inc","{'data': 6, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.23846153846153847,80500.0,0.3717391304347827,Tech Industry
+Data Engineer,4.1,DEREX TECHNOLOGIES INC,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.16923076923076924,80500.0,0.3717391304347827,Tech Industry
+Big Data Engineer,3.6,Xoriant Corporation,"{'data': 4, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 4}",0.23846153846153847,60000.0,0.28260869565217395,Tech Industry
+Data Engineer,4.3,PeopleNTech LLC,"{'data': 6, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.20384615384615384,60000.0,0.28260869565217395,Tech Industry
+Data Engineer,4.0,GTN Technical Staffing,"{'data': 26, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.6192307692307691,60000.0,0.28260869565217395,Other Industry
+Big Data Engineer,4.1,Sysmind LLC,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.13461538461538464,60000.0,0.28260869565217395,Tech Industry
+Data Engineer,4.0,ESolutions Inc,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 5}",0.3076923076923077,60000.0,0.28260869565217395,Tech Industry
+Data Engineer,3.5,The Judge Group,"{'data': 6, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.2730769230769231,120000.0,0.5434782608695653,Other Industry
+Big Data Engineer,3.8,IntraEdge,"{'data': 2, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 2}",0.18653846153846154,120000.0,0.5434782608695653,Tech Industry
+Big Data Engineer,4.0,ISGIT,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.11730769230769231,120000.0,0.5434782608695653,Tech Industry
+Data Engineer,3.2,Net2Source,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,120000.0,0.5434782608695653,Other Industry
+Big Data Engineer,3.9,Diverse Lynx,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.13461538461538464,120000.0,0.5434782608695653,Tech Industry
+Big Data Engineer,3.7,Impetus Technologies,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.25576923076923075,104000.0,0.4739130434782609,Tech Industry
+Data Engineer,5.0,Maestro Technologies,"{'data': 8, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.2730769230769231,122000.0,0.5521739130434783,Tech Industry
+Data Scientist,4.7,Capax Global,"{'data': 17, 'machine learning': 5, 'analysis': 3, 'statistics': 1, 'research': 1, 'python': 1}",0.5846153846153846,122000.0,0.5521739130434783,Tech Industry
+Data Scientist,3.1,MarkMonitor,"{'data': 8, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 2, 'python': 1}",0.3076923076923077,122000.0,0.5521739130434783,Tech Industry
+Data Scientist,3.2,"Numeric, LLC","{'data': 25, 'machine learning': 1, 'analysis': 4, 'statistics': 0, 'research': 0, 'python': 1}",0.6365384615384615,122000.0,0.5521739130434783,Other Industry
+Data Scientist,3.1,Contingent Network Services,"{'data': 11, 'machine learning': 3, 'analysis': 4, 'statistics': 2, 'research': 1, 'python': 1}",0.4807692307692307,68500.0,0.3195652173913044,Tech Industry
+Data Engineer,3.5,Slyce,"{'data': 11, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 1, 'python': 2}",0.3769230769230769,94000.0,0.4304347826086957,Tech Industry
+Data Engineer,3.4,"Digital Intelligence Systems, LLC","{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.3076923076923077,62000.0,0.29130434782608694,Tech Industry
+Data Engineer,4.6,Turnberry Solutions,"{'data': 27, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.6019230769230769,130000.0,0.5869565217391304,Tech Industry
+Data Engineer,3.0,RennerBrown,"{'data': 10, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.325,82500.0,0.3804347826086957,Tech Industry
+Data Engineer,4.2,IntePros,"{'data': 12, 'machine learning': 3, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 4}",0.4288461538461539,82500.0,0.3804347826086957,Consulting Industry
+Data Engineer,3.5,"The Judge Group, Inc","{'data': 10, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.29038461538461535,82500.0,0.3804347826086957,Other Industry
+Data Engineer,3.8,US Tech Solutions Inc,"{'data': 14, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.3942307692307693,82500.0,0.3804347826086957,Other Industry
+Data Engineer,3.2,"Numeric, LLC","{'data': 11, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.325,96500.0,0.44130434782608696,Other Industry
+Data Engineer,3.0,Ettain Group,"{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.325,96500.0,0.44130434782608696,Other Industry
+Data Engineer,5.0,HealthVerity,"{'data': 17, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.4288461538461539,190000.0,0.8478260869565217,Tech Industry
+Data Engineer,3.9,K-Tek Resourcing LLC,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,190000.0,0.8478260869565217,Tech Industry
+Data Engineer,3.9,AETEA Information Technology Inc,"{'data': 20, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4807692307692307,78500.0,0.3630434782608696,Tech Industry
+Data Engineer,4.8,System Soft Technologies,"{'data': 16, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 0}",0.4115384615384615,78000.0,0.36086956521739133,Tech Industry
+Data Scientist,3.8,Tata Consultancy Services,"{'data': 4, 'machine learning': 1, 'analysis': 3, 'statistics': 1, 'research': 0, 'python': 1}",0.2730769230769231,125000.0,0.5652173913043478,Tech Industry
+Data Scientist,4.5,B.E.A.T,"{'data': 10, 'machine learning': 2, 'analysis': 3, 'statistics': 0, 'research': 2, 'python': 2}",0.4288461538461539,125000.0,0.5652173913043478,Tech Industry
+Data Scientist,4.4,Knowesis Inc,"{'data': 25, 'machine learning': 4, 'analysis': 3, 'statistics': 3, 'research': 1, 'python': 4}",0.7923076923076924,125000.0,0.5652173913043478,Consulting Industry
+Data Scientist,4.1,Sysmind LLC,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.15192307692307694,125000.0,0.5652173913043478,Tech Industry
+Data Scientist,3.7,Tata Consultancy Services (North America,"{'data': 5, 'machine learning': 1, 'analysis': 3, 'statistics': 1, 'research': 0, 'python': 1}",0.29038461538461535,125000.0,0.5652173913043478,Tech Industry
+Data Scientist,3.4,"Ke`aki Technologies, LLC","{'data': 11, 'machine learning': 0, 'analysis': 3, 'statistics': 1, 'research': 3, 'python': 1}",0.4288461538461539,125000.0,0.5652173913043478,Tech Industry
+Data Scientist,3.4,"Koniag, Inc","{'data': 14, 'machine learning': 5, 'analysis': 2, 'statistics': 2, 'research': 0, 'python': 1}",0.5153846153846154,125000.0,0.5652173913043478,Consulting Industry
+Data Engineer,3.1,Group O,"{'data': 6, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.23846153846153847,125000.0,0.5652173913043478,Other Industry
+Data Engineer,4.5,Scaleworks,"{'data': 15, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.3769230769230769,73000.0,0.33913043478260874,Tech Industry
+Data Engineer,3.5,"York Solutions, LLC","{'data': 28, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 1}",0.6365384615384615,73000.0,0.33913043478260874,Other Industry
+Data Engineer,4.0,Reliable Software Resources,"{'data': 6, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.22115384615384615,73000.0,0.33913043478260874,Tech Industry
+Data Engineer,4.5,B.E.A.T,"{'data': 20, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 2, 'python': 3}",0.5673076923076924,107000.0,0.4869565217391305,Tech Industry
+Data Engineer,3.8,Speridian Technologies LLC,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.23846153846153847,107000.0,0.4869565217391305,Tech Industry
+Data Engineer,3.0,Deacon Recruiting,"{'data': 8, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.23846153846153847,107000.0,0.4869565217391305,Other Industry
+Data Engineer,2.5,nfolks,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,107000.0,0.4869565217391305,Tech Industry
+Data Engineer,3.4,Guidehouse,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 2, 'research': 0, 'python': 0}",0.29038461538461535,107000.0,0.4869565217391305,Consulting Industry
+Data Engineer,3.2,Navigant Consulting,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 2, 'research': 0, 'python': 0}",0.29038461538461535,118500.0,0.5369565217391304,Consulting Industry
+Research Scientist,3.4,"Ke`aki Technologies, LLC","{'data': 11, 'machine learning': 0, 'analysis': 3, 'statistics': 0, 'research': 16, 'python': 0}",0.6192307692307691,59500.0,0.2804347826086957,Tech Industry
+Data Scientist,3.8,"CliniComp, Intl","{'data': 10, 'machine learning': 2, 'analysis': 1, 'statistics': 3, 'research': 2, 'python': 2}",0.44615384615384623,130000.0,0.5869565217391304,Tech Industry
+Data Scientist,4.5,Seismic,"{'data': 19, 'machine learning': 3, 'analysis': 5, 'statistics': 0, 'research': 0, 'python': 1}",0.5846153846153846,130000.0,0.5869565217391304,Tech Industry
+Data Engineer,4.5,CrowdRise,"{'data': 26, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.6019230769230769,130000.0,0.5869565217391304,Tech Industry
+Data Scientist,3.8,Booz Allen Hamilton Inc,"{'data': 14, 'machine learning': 4, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 0}",0.4288461538461539,130000.0,0.5869565217391304,Consulting Industry
+Data Scientist,3.0,"Central Business Solutions, Inc","{'data': 8, 'machine learning': 4, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.35961538461538456,92000.0,0.4217391304347826,Consulting Industry
+Data Scientist,4.1,APN Software Services Inc,"{'data': 6, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 4, 'python': 1}",0.325,92000.0,0.4217391304347826,Tech Industry
+Data Engineer,3.9,Kaygen Inc,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 3}",0.20384615384615384,64000.0,0.3,Consulting Industry
+Data Engineer,4.0,Itility,"{'data': 23, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.5153846153846154,124000.0,0.5608695652173914,Tech Industry
+Data Engineer,3.3,SmartDrive Systems,"{'data': 16, 'machine learning': 3, 'analysis': 4, 'statistics': 0, 'research': 0, 'python': 1}",0.5153846153846154,96500.0,0.44130434782608696,Tech Industry
+Data Engineer,3.1,Logic Planet,"{'data': 16, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 0}",0.3942307692307693,96500.0,0.44130434782608696,Tech Industry
+Data Engineer,4.0,CYNET SYSTEMS,"{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 0}",0.3076923076923077,96500.0,0.44130434782608696,Tech Industry
+Data Scientist,5.0,Cytracom,"{'data': 12, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.3423076923076923,62000.0,0.29130434782608694,Tech Industry
+Data Scientist,4.3,"Onica, a Rackspace Company","{'data': 10, 'machine learning': 1, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.325,62000.0,0.29130434782608694,Tech Industry
+Data Scientist,5.0,Ateroz,"{'data': 9, 'machine learning': 1, 'analysis': 2, 'statistics': 1, 'research': 0, 'python': 1}",0.3423076923076923,62000.0,0.29130434782608694,Other Industry
+Data Scientist,3.5,CGI,"{'data': 10, 'machine learning': 1, 'analysis': 0, 'statistics': 3, 'research': 0, 'python': 1}",0.35961538461538456,62000.0,0.29130434782608694,Consulting Industry
+Data Scientist,3.9,Predictive Research Inc,"{'data': 1, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.13461538461538464,62000.0,0.29130434782608694,Consulting Industry
+Data Scientist,4.2,CyberCoders,"{'data': 9, 'machine learning': 0, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.3076923076923077,62000.0,0.29130434782608694,Other Industry
+Data Scientist,2.5,"Health Management Systems, Inc","{'data': 20, 'machine learning': 1, 'analysis': 7, 'statistics': 2, 'research': 1, 'python': 2}",0.6711538461538461,61500.0,0.2891304347826087,Consulting Industry
+Data Scientist,4.2,Prudent Technologies and Consulting,"{'data': 4, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.16923076923076924,61500.0,0.2891304347826087,Tech Industry
+Machine Learning Engineer,4.8,Dialexa,"{'data': 8, 'machine learning': 2, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.3076923076923077,61500.0,0.2891304347826087,Tech Industry
+Data Scientist,4.1,APN Software Services Inc,"{'data': 12, 'machine learning': 5, 'analysis': 3, 'statistics': 1, 'research': 2, 'python': 2}",0.5326923076923077,172000.0,0.7695652173913043,Tech Industry
+Machine Learning Engineer,4.6,Tiger Analytics,"{'data': 11, 'machine learning': 9, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.4980769230769231,172000.0,0.7695652173913043,Consulting Industry
+Data Scientist,2.7,IMG Systems,"{'data': 3, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.18653846153846154,172000.0,0.7695652173913043,Consulting Industry
+Data Scientist,3.0,"Central Business Solutions, Inc","{'data': 3, 'machine learning': 0, 'analysis': 1, 'statistics': 3, 'research': 0, 'python': 1}",0.23846153846153847,172000.0,0.7695652173913043,Consulting Industry
+Data Engineer,4.6,Vinli,"{'data': 19, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.4634615384615385,63500.0,0.29782608695652174,Tech Industry
+Data Engineer,4.5,Athreya Inc,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.15192307692307694,73000.0,0.33913043478260874,Tech Industry
+Data Engineer,-1.0,Palnar,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.25576923076923075,73000.0,0.33913043478260874,Tech Industry
+Big Data Engineer,4.3,Onica Group,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,122000.0,0.5521739130434783,Tech Industry
+Machine Learning Engineer,4.1,SysMind,"{'data': 2, 'machine learning': 4, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 3}",0.2730769230769231,122000.0,0.5521739130434783,Tech Industry
+Machine Learning Engineer,3.4,NTT DATA,"{'data': 12, 'machine learning': 3, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.3769230769230769,122000.0,0.5521739130434783,Tech Industry
+Data Engineer,3.7,"DataSys Consulting and Software, Inc","{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.16923076923076924,122000.0,0.5521739130434783,Consulting Industry
+Data Engineer,3.4,IQuest Solutions Corp,"{'data': 10, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.325,122000.0,0.5521739130434783,Tech Industry
+Data Engineer,4.0,"Object Technology Solutions, Inc","{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.3076923076923077,65000.0,0.30434782608695654,Tech Industry
+Data Engineer,3.3,Vaco Financial,"{'data': 6, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.22115384615384615,65000.0,0.30434782608695654,Consulting Industry
+Data Engineer,3.4,NTT DATA Corporation,"{'data': 20, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.4807692307692307,65000.0,0.30434782608695654,Tech Industry
+Data Engineer,3.0,"Central Business Solutions, Inc","{'data': 8, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,70500.0,0.3282608695652174,Consulting Industry
+Data Engineer,3.9,Jnit Technologies,"{'data': 1, 'machine learning': 0, 'analysis': 3, 'statistics': 0, 'research': 0, 'python': 0}",0.16923076923076924,70500.0,0.3282608695652174,Tech Industry
+Big Data Engineer,4.4,Tachyon Technologies LLC,"{'data': 0, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.13461538461538464,70500.0,0.3282608695652174,Tech Industry
+Big Data Engineer,4.6,Tiger Analytics,"{'data': 6, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.2730769230769231,70500.0,0.3282608695652174,Consulting Industry
+Big Data Engineer,3.8,Tata Consultancy Services,"{'data': 7, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.25576923076923075,116000.0,0.5260869565217391,Tech Industry
+Big Data Engineer,3.4,Ksquare Solutions INC,"{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.325,61500.0,0.2891304347826087,Tech Industry
+Data Engineer,3.0,Photon Infotech,"{'data': 6, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.22115384615384615,61500.0,0.2891304347826087,Tech Industry
+Big Data Engineer,3.8,Enterprise Solutions Inc,"{'data': 8, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,68500.0,0.3195652173913044,Other Industry
+Data Engineer,4.6,"HumCap, Inc","{'data': 8, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 0}",0.25576923076923075,68500.0,0.3195652173913044,Consulting Industry
+Data Engineer,3.4,DISYS,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.25576923076923075,68500.0,0.3195652173913044,Tech Industry
+Big Data Engineer,3.7,Tata Consultancy Services (North America,"{'data': 8, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,68500.0,0.3195652173913044,Tech Industry
+Data Engineer,3.5,Tek Leaders,"{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.325,87500.0,0.40217391304347827,Tech Industry
+Data Engineer,3.9,Diverse Lynx,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.15192307692307694,87500.0,0.40217391304347827,Tech Industry
+Data Engineer,4.4,InfoVision,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.29038461538461535,87500.0,0.40217391304347827,Tech Industry
+Big Data Engineer,3.9,Horizontal Talent,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,87500.0,0.40217391304347827,Other Industry
+Data Scientist,4.1,Netskope,"{'data': 19, 'machine learning': 1, 'analysis': 0, 'statistics': 1, 'research': 2, 'python': 1}",0.5153846153846154,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,4.7,C3.ai,"{'data': 4, 'machine learning': 4, 'analysis': 0, 'statistics': 2, 'research': 0, 'python': 1}",0.29038461538461535,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,2.8,Waymo,"{'data': 8, 'machine learning': 0, 'analysis': 1, 'statistics': 2, 'research': 0, 'python': 1}",0.3076923076923077,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,4.5,Architecture Technology Corporation,"{'data': 0, 'machine learning': 2, 'analysis': 1, 'statistics': 2, 'research': 2, 'python': 1}",0.23846153846153847,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,4.2,Eversight,"{'data': 9, 'machine learning': 5, 'analysis': 0, 'statistics': 1, 'research': 2, 'python': 2}",0.4288461538461539,121000.0,0.5478260869565218,Tech Industry
+Machine Learning Engineer,4.3,Entefy,"{'data': 2, 'machine learning': 4, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.22115384615384615,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,3.6,Western Digital,"{'data': 26, 'machine learning': 2, 'analysis': 0, 'statistics': 1, 'research': 1, 'python': 0}",0.6192307692307691,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,3.6,Gigya,"{'data': 21, 'machine learning': 1, 'analysis': 3, 'statistics': 1, 'research': 2, 'python': 1}",0.6019230769230769,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,3.9,PayPal,"{'data': 16, 'machine learning': 5, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 3}",0.5326923076923077,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,3.6,eBay,"{'data': 4, 'machine learning': 1, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.22115384615384615,121000.0,0.5478260869565218,Tech Industry
+Data Scientist,3.8,Apex Systems,"{'data': 14, 'machine learning': 4, 'analysis': 2, 'statistics': 0, 'research': 1, 'python': 1}",0.4807692307692307,161000.0,0.7217391304347825,Other Industry
+Data Scientist,4.3,Match Relevant,"{'data': 3, 'machine learning': 2, 'analysis': 2, 'statistics': 1, 'research': 0, 'python': 1}",0.25576923076923075,161000.0,0.7217391304347825,Tech Industry
+Big Data Engineer,4.1,Plume,"{'data': 9, 'machine learning': 3, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.3423076923076923,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,3.1,MoTek Technologies,"{'data': 9, 'machine learning': 0, 'analysis': 3, 'statistics': 0, 'research': 1, 'python': 1}",0.3423076923076923,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,4.1,Apple,"{'data': 13, 'machine learning': 2, 'analysis': 3, 'statistics': 1, 'research': 0, 'python': 1}",0.44615384615384623,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,4.3,Entefy,"{'data': 4, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.20384615384615384,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,4.6,SAP,"{'data': 21, 'machine learning': 1, 'analysis': 3, 'statistics': 1, 'research': 3, 'python': 1}",0.6192307692307691,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,2.3,Miles,"{'data': 6, 'machine learning': 1, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 3}",0.29038461538461535,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,3.8,ByteDance,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,4.0,Flexton,"{'data': 16, 'machine learning': 2, 'analysis': 9, 'statistics': 1, 'research': 0, 'python': 2}",0.6192307692307691,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,4.5,Facebook,"{'data': 24, 'machine learning': 0, 'analysis': 2, 'statistics': 2, 'research': 1, 'python': 2}",0.6365384615384615,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,5.0,PROPRIUS,"{'data': 18, 'machine learning': 4, 'analysis': 2, 'statistics': 2, 'research': 1, 'python': 1}",0.5846153846153846,161000.0,0.7217391304347825,Tech Industry
+Data Scientist,4.2,Centraprise,"{'data': 4, 'machine learning': 1, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.22115384615384615,143000.0,0.6434782608695653,Tech Industry
+Machine Learning Engineer,4.2,CyberCoders,"{'data': 5, 'machine learning': 7, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.3423076923076923,143000.0,0.6434782608695653,Other Industry
+Data Engineer,4.1,Slalom LLC,"{'data': 21, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4980769230769231,143000.0,0.6434782608695653,Consulting Industry
+Machine Learning Engineer,4.7,Liftoff,"{'data': 2, 'machine learning': 3, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.18653846153846154,143000.0,0.6434782608695653,Tech Industry
+Big Data Engineer,4.5,SpringML,"{'data': 9, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.29038461538461535,143000.0,0.6434782608695653,Tech Industry
+Research Scientist,4.3,Carbon3D,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 0}",0.15192307692307694,225000.0,1.0,Tech Industry
+Data Engineer,4.2,CyberCoders,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.23846153846153847,174500.0,0.7804347826086957,Other Industry
+Data Engineer,4.1,Apple,"{'data': 16, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4288461538461539,153500.0,0.6891304347826087,Tech Industry
+Data Engineer,4.4,Telaria,"{'data': 10, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.3076923076923077,153500.0,0.6891304347826087,Tech Industry
+Machine Learning Engineer,-1.0,Passage AI,"{'data': 4, 'machine learning': 6, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.29038461538461535,160500.0,0.7195652173913043,Tech Industry
+Data Engineer,3.5,HCL America Inc,"{'data': 4, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 2}",0.22115384615384615,160500.0,0.7195652173913043,Tech Industry
+Research Scientist,3.9,Amazon,"{'data': 5, 'machine learning': 4, 'analysis': 1, 'statistics': 0, 'research': 2, 'python': 1}",0.325,160500.0,0.7195652173913043,Tech Industry
+Data Engineer,4.6,"Conch Technologies, Inc","{'data': 11, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 4}",0.35961538461538456,159500.0,0.7152173913043478,Consulting Industry
+Data Engineer,4.1,BayOne Solutions,"{'data': 14, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.3769230769230769,156500.0,0.7021739130434782,Tech Industry
+Machine Learning Engineer,4.1,BayOne Solutions,"{'data': 4, 'machine learning': 7, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.325,156500.0,0.7021739130434782,Tech Industry
+Machine Learning Engineer,4.1,Apple,"{'data': 0, 'machine learning': 6, 'analysis': 2, 'statistics': 0, 'research': 1, 'python': 2}",0.29038461538461535,156500.0,0.7021739130434782,Tech Industry
+Machine Learning Engineer,2.9,Dew Software,"{'data': 4, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.20384615384615384,156500.0,0.7021739130434782,Tech Industry
+Research Scientist,4.5,Facebook,"{'data': 5, 'machine learning': 3, 'analysis': 0, 'statistics': 0, 'research': 2, 'python': 0}",0.2730769230769231,183000.0,0.817391304347826,Tech Industry
+Data Engineer,4.2,Nextgen Technologies,"{'data': 12, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.3076923076923077,183000.0,0.817391304347826,Tech Industry
+Data Engineer,3.9,PayPal,"{'data': 2, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.15192307692307694,183000.0,0.817391304347826,Tech Industry
+Data Engineer,3.9,Diverse Lynx,"{'data': 4, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.16923076923076924,140500.0,0.6326086956521739,Tech Industry
+Data Engineer,3.7,ServiceNow,"{'data': 11, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 1}",0.3423076923076923,140500.0,0.6326086956521739,Tech Industry
+Data Scientist,3.1,Dun & Bradstreet,"{'data': 11, 'machine learning': 1, 'analysis': 1, 'statistics': 1, 'research': 2, 'python': 1}",0.3942307692307693,148500.0,0.6673913043478261,Tech Industry
+Data Scientist,3.6,eBay,"{'data': 12, 'machine learning': 2, 'analysis': 2, 'statistics': 0, 'research': 1, 'python': 2}",0.4288461538461539,148500.0,0.6673913043478261,Tech Industry
+Data Scientist,3.7,CloudFlare,"{'data': 18, 'machine learning': 3, 'analysis': 1, 'statistics': 1, 'research': 0, 'python': 1}",0.5153846153846154,148500.0,0.6673913043478261,Tech Industry
+Data Scientist,3.1,Federal Data Systems,"{'data': 12, 'machine learning': 1, 'analysis': 5, 'statistics': 1, 'research': 0, 'python': 0}",0.4288461538461539,148500.0,0.6673913043478261,Tech Industry
+Data Scientist,2.2,NGENERA CORPORATION,"{'data': 3, 'machine learning': 0, 'analysis': 1, 'statistics': 2, 'research': 0, 'python': 1}",0.22115384615384615,145000.0,0.6521739130434782,Tech Industry
+Machine Learning Engineer,3.9,PayPal,"{'data': 6, 'machine learning': 1, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,145000.0,0.6521739130434782,Tech Industry
+Machine Learning Engineer,5.0,Enview,"{'data': 4, 'machine learning': 5, 'analysis': 0, 'statistics': 0, 'research': 6, 'python': 1}",0.3769230769230769,145000.0,0.6521739130434782,Tech Industry
+Data Engineer,4.1,Apple,"{'data': 16, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4288461538461539,122000.0,0.5521739130434783,Tech Industry
+Big Data Engineer,4.5,SpringML,"{'data': 9, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.29038461538461535,122000.0,0.5521739130434783,Tech Industry
+Data Engineer,4.7,SADA,"{'data': 22, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.5326923076923077,126000.0,0.5695652173913044,Tech Industry
+Data Engineer,3.5,Atos Syntel Inc,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.16923076923076924,126000.0,0.5695652173913044,Tech Industry
+Data Engineer,3.2,"Phunware, Inc","{'data': 7, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.25576923076923075,126000.0,0.5695652173913044,Tech Industry
+Data Engineer,3.9,Amazon,"{'data': 15, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 1, 'python': 1}",0.4288461538461539,53000.0,0.25217391304347825,Tech Industry
+Data Engineer,4.4,Tachyon Technologies,"{'data': 3, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.15192307692307694,53000.0,0.25217391304347825,Tech Industry
+Data Engineer,4.9,"Treehouse Technology Group, LLC","{'data': 36, 'machine learning': 1, 'analysis': 5, 'statistics': 1, 'research': 0, 'python': 1}",0.8615384615384615,53000.0,0.25217391304347825,Tech Industry
+Big Data Engineer,4.3,Onica Group,"{'data': 9, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.2730769230769231,92000.0,0.4217391304347826,Tech Industry
+Data Engineer,4.0,LMI,"{'data': 14, 'machine learning': 0, 'analysis': 0, 'statistics': 1, 'research': 0, 'python': 1}",0.3769230769230769,92000.0,0.4217391304347826,Consulting Industry
+Data Engineer,4.8,"EtiVenture, Inc","{'data': 19, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 3}",0.5153846153846154,92000.0,0.4217391304347826,Consulting Industry
+Data Engineer,3.9,Octo Consulting Group,"{'data': 10, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.29038461538461535,105500.0,0.48043478260869565,Consulting Industry
+Data Engineer,3.4,OBXtek,"{'data': 12, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.325,105500.0,0.48043478260869565,Tech Industry
+Data Engineer,2.6,InfoWay Solutions LLC,"{'data': 2, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.16923076923076924,105500.0,0.48043478260869565,Tech Industry
+Data Engineer,4.2,Procore Technologies,"{'data': 23, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.5326923076923077,105500.0,0.48043478260869565,Tech Industry
+Data Engineer,4.2,Horn Solutions Inc,"{'data': 11, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.325,105500.0,0.48043478260869565,Consulting Industry
+Big Data Engineer,4.0,CYNET SYSTEMS,"{'data': 2, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.16923076923076924,109000.0,0.4956521739130435,Tech Industry
+Data Engineer,4.9,Dutech Systems Inc,"{'data': 7, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.22115384615384615,99500.0,0.45434782608695656,Tech Industry
+Data Engineer,3.3,Pro-Sphere Tek,"{'data': 9, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 0}",0.2730769230769231,99500.0,0.45434782608695656,Tech Industry
+Data Engineer,4.1,APN Software Services Inc,"{'data': 7, 'machine learning': 1, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.25576923076923075,87000.0,0.4,Tech Industry
+Data Engineer,4.3,TekPartners,"{'data': 6, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 0}",0.20384615384615384,77500.0,0.3586956521739131,Other Industry
+Data Engineer,3.8,"Clearsense, LLC","{'data': 27, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 1, 'python': 0}",0.6192307692307691,77500.0,0.3586956521739131,Tech Industry
+Data Scientist,5.0,Ateroz,"{'data': 11, 'machine learning': 3, 'analysis': 3, 'statistics': 1, 'research': 0, 'python': 1}",0.4288461538461539,125500.0,0.567391304347826,Other Industry
+Data Engineer,3.5,Tek Leaders,"{'data': 21, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 2}",0.4980769230769231,68500.0,0.3195652173913044,Tech Industry
+Data Engineer,5.0,"Amvotech Solutions, Inc","{'data': 17, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 2}",0.4634615384615385,68500.0,0.3195652173913044,Tech Industry
+Data Engineer,3.3,NT Concepts,"{'data': 18, 'machine learning': 1, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.4634615384615385,65500.0,0.3065217391304348,Tech Industry
+Big Data Engineer,3.9,Diverse Lynx,"{'data': 7, 'machine learning': 0, 'analysis': 1, 'statistics': 0, 'research': 0, 'python': 1}",0.25576923076923075,76500.0,0.3543478260869565,Tech Industry
+Data Scientist,3.1,CAS,"{'data': 14, 'machine learning': 3, 'analysis': 1, 'statistics': 3, 'research': 5, 'python': 1}",0.5673076923076924,131500.0,0.5934782608695652,Tech Industry
+Data Scientist,2.5,"Avacend, Inc","{'data': 4, 'machine learning': 1, 'analysis': 1, 'statistics': 2, 'research': 0, 'python': 2}",0.2730769230769231,131500.0,0.5934782608695652,Other Industry
+Machine Learning Engineer,4.6,Tiger Analytics,"{'data': 11, 'machine learning': 9, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 2}",0.4980769230769231,73000.0,0.33913043478260874,Consulting Industry
+Data Engineer,4.2,Eliassen Group,"{'data': 22, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 3}",0.5326923076923077,84000.0,0.3869565217391304,Other Industry
+Data Engineer,4.1,Kforce,"{'data': 21, 'machine learning': 0, 'analysis': 2, 'statistics': 0, 'research': 0, 'python': 0}",0.4980769230769231,62500.0,0.29347826086956524,Other Industry
+Big Data Engineer,4.6,Tiger Analytics,"{'data': 6, 'machine learning': 2, 'analysis': 0, 'statistics': 0, 'research': 1, 'python': 1}",0.2730769230769231,62500.0,0.29347826086956524,Consulting Industry
+Big Data Engineer,4.1,Kforce,"{'data': 5, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.20384615384615384,83500.0,0.3847826086956522,Other Industry
+Big Data Engineer,3.4,Infinity Consulting Solutions,"{'data': 4, 'machine learning': 0, 'analysis': 0, 'statistics': 0, 'research': 0, 'python': 1}",0.18653846153846154,83500.0,0.3847826086956522,Other Industry
